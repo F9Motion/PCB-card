@@ -80,11 +80,11 @@ This is a passive card. The design is drawn entirely in KiCad:
 
 ## Bill of Materials (BOM)
 
-|Item        |Cost |Comment       |Link               |
-|------------|-----|--------------|-------------------|
-|Printing PCB|$2   |No comment    |https://jlcpcb.com/|
-|bottom.step |$0.48|Felament price|No link            |
-|top.step    |$0.28|Felament price|No link            |
+|Item        |Cost |Shipping(to Uzbekistan)|Comment       |Link               |
+|------------|-----|-----------------------|--------------|-------------------|
+|Printing PCB|$2   |$9.65                  |No comment    |https://jlcpcb.com/|
+|bottom.step |$0.48|no shipping            |Felament price|No link            |
+|top.step    |$0.28|no shipping            |Felament price|No link            |
 
 <img width="1918" height="1008" alt="Снимок экрана 2026-11-16 202833" src="https://github.com/user-attachments/assets/f7afd03d-a743-4ef3-9401-7a7b6680b6f7" />
 <img width="1918" height="1008" alt="Снимок экрана 2026-11-16 202736" src="https://github.com/user-attachments/assets/d2809fa4-9d17-48a4-8ca1-f2b7bf844d08" />
