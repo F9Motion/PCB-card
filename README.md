@@ -80,11 +80,16 @@ This is a passive card. The design is drawn entirely in KiCad:
 
 ## Bill of Materials (BOM)
 
-| Item | Cost | comment |
+| Item | Cost | Shipping to Uzbekistan  or comment |
 |:--|--:|:--|
-| Print PCB | $4 | without shipping(I need $10) |
-| bottom.step | $0.41 | Felament price only |
-| top.step | $0.26 | Price taken form Bambu Studio |
+| Print PCB | $2 | $9.65 |
+| bottom.step | $0.48 | Felament price only |
+| top.step | $0.28 | Price taken form Bambu Studio |
+
+<img width="1918" height="1008" alt="Снимок экрана 2026-11-16 202833" src="https://github.com/user-attachments/assets/f7afd03d-a743-4ef3-9401-7a7b6680b6f7" />
+<img width="1918" height="1008" alt="Снимок экрана 2026-11-16 202736" src="https://github.com/user-attachments/assets/d2809fa4-9d17-48a4-8ca1-f2b7bf844d08" />
+<img width="1916" height="1018" alt="Снимок экрана 2026-11-16 185025" src="https://github.com/user-attachments/assets/5955118e-b7fe-4d0a-856d-df95f6507d2d" />
+
 
 ## Credits
 
